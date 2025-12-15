@@ -1,4 +1,4 @@
-## Implementation of some baby sample of machine learning algorithms.
+## Implementation of some baby samples of machine learning algorithms.
 
 - Kmeans image compression.
 - ISOMAP dimensional reduction.
